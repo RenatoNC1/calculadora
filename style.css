@@ -1,0 +1,10 @@
+#calculadora {
+    background-color: #6e6e77; /* Cor de fundo */
+    color: #333;             /* Cor do texto */
+    width: 400px; /* largura */
+    height: 600px; /* Altura */
+    position: absolute;
+}
+#tela{
+    background-color: #5aa109; 
+}
